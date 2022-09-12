@@ -1,0 +1,126 @@
+/* Margin Css Start  */
+
+.use-margin {
+    width: 80%;
+    border: 2px dotted tomato;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+
+}
+.use-bootstrap-margin,.use-css-margin, .use-bootstrap-padding, .use-css-padding, .use-bootstrap-border, .use-css-border {
+    padding: 20px 50px;
+    font-size: 25px;
+}
+
+
+.margin-class{
+    display: inline-block;
+
+}
+.Margin-top{
+    margin: 20px 0 0 0;
+    background-color: rgb(0, 255, 221);
+}
+.Margin-Left{
+    margin: 0 0 0 20px;
+    background-color: rgb(250, 246, 43);
+}
+.Margin-Bottom{
+    margin: 0 0 20px 0;
+    background-color: rgb(241, 15, 174);
+}
+.Margin-Right{
+    margin: 0 20px 0 0;
+    background-color: rgb(73, 13, 238);
+}
+.margin-All{
+margin: 20PX;
+background-color: rgba(3, 22, 82, 0.808);
+}
+/* Margin Css End  */
+
+/* Padding Css Start  */
+.use-padding{
+    width: 80%;
+    border: 2px solid rgb(86, 12, 100);
+    margin: auto;
+}
+.padding-class{
+    display: inline-block;
+}
+.Padding-top{
+    padding: 20px 0 0 0;
+    background-color: rgba(155, 13, 13, 0.644);
+    color: #fff;
+}
+.Padding-Left{
+    padding: 0 0 0 20px;
+    background-color: rgb(3, 102, 36);
+    color: white;
+}
+.Padding-Bottom{
+    padding: 0 0 20px 0;
+    background-color: rgb(125, 243, 15);
+    color: rgb(255,255,255);
+}
+.Padding-Right{
+    padding: 0 20px 0 0;
+    background-color:rgb(4, 0, 255) ;
+    color: white;
+}
+.Padding-all{
+    padding: 20px;
+    background-color: blueviolet;
+    color: #ffffff;
+}
+.use-padding{
+    width: 80%;
+    border: 2px solid rgb(77, 14, 3);
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 166, 0);
+}
+
+/* Padding Css End  */
+
+/* Border CSS Start */
+.use-border{
+    width: 80%;
+    border: 2px dotted tomato;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(195, 0, 255, 0.548);
+
+}
+.Border-top{
+    border-top: 5px solid rgb(76, 0, 255);
+    background-color: rgba(155, 13, 13, 0.644);
+    color: #fff;
+}
+.Border-Left{
+    border-left: 5px solid rgb(8, 94, 6);
+    background-color: rgba(155, 134, 13, 0.644);
+    color: #fff;
+}
+.Border-Bottom{
+    border-bottom: 5px solid rgb(94, 6, 43);
+    background-color: rgba(13, 155, 67, 0.644);
+    color: #fff;
+}
+.Border-Right{
+    border-right: 5px solid rgb(94, 93, 6);
+    background-color: rgba(13, 79, 155, 0.644);
+    color: #fff;
+}
+.Border-all{
+    border: 5px solid rgb(94, 93, 6);
+    background-color: rgba(13, 79, 155, 0.644);
+    color: #fff;
+}
